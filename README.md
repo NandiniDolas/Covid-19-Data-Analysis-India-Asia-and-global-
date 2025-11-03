@@ -1,19 +1,19 @@
 This Power BI project provides an interactive analysis of COVID-19 data across different countries and regions. The dashboard visualizes key insights such as total cases, deaths, recoveries, and vaccination progress. It helps users explore pandemic trends, compare countries, and understand the overall global impact through dynamic filters and visuals.
 
-Key Features:
+💜**Key Features:**
 
-Interactive dashboards and slicers
+-Interactive dashboards and slicers
 
-Country-wise and continent-wise comparisons
+-Country-wise and continent-wise comparisons
 
-Daily and cumulative case analysis
+-Daily and cumulative case analysis
 
-Vaccination and recovery rate trends
+-Vaccination and recovery rate trends
 
-Clean and user-friendly Power BI interface
+-Clean and user-friendly Power BI interface
 
-Tools Used:
+**Tools Used:**
 
-Power BI for visualization
+👉🏻Power BI for visualization
 
-Excel / CSV dataset for data source
+👉🏻Excel / CSV dataset for data source
