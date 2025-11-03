@@ -1,19 +1,33 @@
-This Power BI project provides an interactive analysis of COVID-19 data across different countries and regions. The dashboard visualizes key insights such as total cases, deaths, recoveries, and vaccination progress. It helps users explore pandemic trends, compare countries, and understand the overall global impact through dynamic filters and visuals.
+The COVID-19 Data Analysis Project aims to explore and visualize the global effects of the pandemic using a complete data analytics workflow — from raw data cleaning to final visualization.
 
-💜**Key Features:**
+The process starts with Excel for handling missing values and formatting data, continues with SQL for running analytical queries, and concludes with Tableau for creating interactive dashboards that showcase trends in confirmed cases, recoveries, deaths, and vaccinations.
 
--Interactive dashboards and slicers
+Objectives:
 
--Country-wise and continent-wise comparisons
+Clean and preprocess COVID-19 datasets in Excel
 
--Daily and cumulative case analysis
+Write SQL queries to extract and analyze insights
 
--Vaccination and recovery rate trends
+Build interactive dashboards and maps in Tableau
 
--Clean and user-friendly Power BI interface
+Identify country-wise growth rates and vaccine progress
 
-**Tools Used:**
+Dashboard Insights:
 
-👉🏻Power BI for visualization
+Global summary cards (Total Cases, Deaths, Recoveries, Vaccinations)
 
-👉🏻Excel / CSV dataset for data source
+Daily and cumulative trend analysis
+
+Country and continent comparison
+
+Vaccination vs Case Growth visuals
+
+Dynamic filters and user-interactive view
+
+Tools & Technologies:
+
+Excel – Data cleaning, filtering, and preprocessing
+
+SQL – Data querying, aggregation, and analysis
+
+Tableau – Data visualization and dashboard creation
